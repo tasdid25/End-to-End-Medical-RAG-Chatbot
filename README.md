@@ -1,7 +1,7 @@
 # Medical-Chatbot-Project
 
 ## Overview
-A specialized medical information retrieval system using state-of-the-art language models and vector databases. This chatbot leverages GROQ's API to provide accurate, contextualized responses to medical queries based on a curated database of medical literature.
+A specialized medical information retrieval system using state-of-the-art large language models (LLM) and vector databases. This chatbot leverages GROQ's API to provide accurate, contextualized responses to medical queries based on a curated database of medical literature.
 
 ## Features
 - **PDF Knowledge Base**: Automatically processes and indexes medical documents
